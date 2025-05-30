@@ -1,2 +1,7 @@
-ipykernel
-python-dotenv
+# Modules
+requests
+beautifulsoup4
+numpy
+pandas
+matplotlib
+scikit-learn
